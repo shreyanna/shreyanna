@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**shreyanna/shreyanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shreya Annapureddy, a **data science** and **data analyticst** enthusiast. Currently pursuing a B.S. in Statistics & Analytics with a minor in Data Science at UNC-Chapel Hill, I thrive on tackling data-driven challenges and creating engaging AR experiences.
 
-Here are some ideas to get you started:
+### 🌟 Highlights
+- 📊 **Data Science Enthusiast**: Skilled in R, Python, and SQL for data analysis and visualization.
+- 👩‍💻 **AR Creator**: Designed dynamic AR lenses on Snap and Meta platforms, garnering **over 600 million impressions** globally.
+- 🎓 **Achievements**: Founding partner and curriculum developer of [Data World](https://cads.cs.unc.edu/data-world/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+- Currently open to exploring new opportunities in data science, analytics, and AR/VR development.
+- Looking to collaborate on projects involving **machine learning**, **data visualization**, or **AR applications**.
+
+### 💬 Fun Fact
+When I'm not diving into datasets or designing AR experiences, I enjoy mentoring peers and experimenting with creative tech projects.
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/shreyanna/)
+- 🖥️ [Portfolio](https://github.com/shreyanna)
+
+Feel free to explore my repositories and reach out if you're interested in collaborating!

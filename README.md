@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Shreya Annapureddy, a **data science** and **data analyticst** enthusiast. Currently pursuing a B.S. in Statistics & Analytics with a minor in Data Science at UNC-Chapel Hill, I thrive on tackling data-driven challenges and creating engaging AR experiences.
+I'm Shreya Annapureddy, a **data science** and **data analytics** enthusiast. Currently pursuing a B.S. in Statistics & Analytics with a minor in Data Science at UNC-Chapel Hill, I thrive on tackling data-driven challenges and creating engaging AR experiences.
 
 ### 🌟 Highlights
 - 📊 **Data Science Enthusiast**: Skilled in R, Python, and SQL for data analysis and visualization.

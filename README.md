@@ -1,15 +1,28 @@
 ## Welcome  
 
-Statistics & Analytics student leveraging advanced statistical methods and machine learning to drive impactful solutions. Expertise in data modeling, visualization, and AR/VR development, with a proven track record in process optimization and creative technology applications. B.S. Statistics & Analytics, Minor in Data Science at UNC-Chapel Hill.
+Hi, I’m Shreya Annapureddy, a senior at UNC-Chapel Hill pursuing a B.S. in Statistics & Analytics with a minor in Data Science. I’m fascinated by the ability of technology to combine systematic processes with creative problem-solving, turning abstract concepts into impactful, real-world solutions.
 
-### Highlights  
-- **Technical Skills**: Proficient in R, Python, SQL, Tableau, Power BI, and distributed systems.  
-- **AR Development**: Designed AR lenses for Snap and Meta, reaching **600M+ impressions** globally.  
-- **Process Optimization**: Redesigned large-scale systems impacting **17,000 users**, enhancing efficiency and collaboration.  
+📊 **Currently**:  
+- Leading curriculum development for **Data World**, an educational initiative focused on programming and machine learning concepts.
 
-### Interests  
-- Machine learning, data-driven decision-making, and scalable solutions in analytics and AR/VR.  
+📈 **Next**:  
+- Actively seeking full-time opportunities in **data science** and **business analytics** to apply expertise in predictive modeling, data analysis, and visualization to solve complex challenges and drive informed decision-making.
 
-📫 **Connect**: [LinkedIn](https://linkedin.com/in/shreyanna/) | [GitHub](https://github.com/shreyanna/)  
+## Projects  
 
-Explore repositories and projects, and feel free to connect!  
+- **AR Development**: Developed AR lenses for Snap and Meta platforms, achieving over **600 million impressions**.  
+- **Algorithmic Bias Research**: Conducted research on algorithmic bias in machine learning systems, addressing racial and ethnic disparities in predictive models.  
+- **Predictive Modeling**: Built predictive models to optimize decision-making processes and improve operational efficiency.  
+
+## Interests  
+
+- **Data Science & Business Analytics**: Applying predictive models and advanced analytics to solve organizational challenges.  
+- **Machine Learning**: Leveraging ML techniques to create scalable, real-world solutions.  
+- **Creative Technologies**: Exploring AR/VR and other emerging tech to develop innovative user-focused applications.  
+- **Data Visualization**: Designing intuitive visualizations to communicate complex data effectively.  
+
+📫 **Let’s Connect**:  
+- [LinkedIn](https://linkedin.com/in/shreyanna/)  
+- [Email](mailto:shreyanna0@gmail.com)  
+
+Feel free to explore my repositories to see more of my work and interests.  

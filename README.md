@@ -18,8 +18,6 @@ I'm Shreya Annapureddy, a **data science** and **data analytics** enthusiast. Cu
 ### Next  
 - Open to exploring new opportunities in **data science**, **business analytics**, and **AR/VR development**.  
 
-When not diving into datasets or designing AR experiences, I enjoy mentoring peers and experimenting with creative tech projects.  
-
 ### 📫 Let's Connect  
 - [LinkedIn](https://linkedin.com/in/shreyanna/)  
 

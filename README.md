@@ -9,7 +9,7 @@ I'm Shreya Annapureddy, a **data science** and **business analytics** enthusiast
 
 ### Recently  
 - **Advanced Analytics**: Completed the **[Global Tech Accelerator: Data Analytics Program](https://www.credential.net/a97b4ebe-3b13-4b35-8f98-aa16c4dc64a4)**, where data aggregation and visualization techniques were applied to real-world business problems.  
-- **Process Optimization**: Redesigned the company-wide employee directory, improving operational efficiency and collaboration for 17,000 associates, with continued impact demonstrated through training for new hires and interns. Streamlined API architecture using MuleSoft Exchange to enhance system integration and cross-team workflows at First Citizens Bank.
+- **Process Optimization**: Redesigned company-wide employee directory framework as a **Business Systems Analyst Intern at First Citizens Bank**, enhancing operational efficiency and collaboration for 17,000 associates. Streamlined API architecture using MuleSoft Exchange to improve system integration and cross-team workflows.
 
 ### Currently  
 - **Leadership**: Serving as Vice President of Finance for [Transfers at UNC-CH](https://heellife.unc.edu/organization/transfers-at-unc), driving strategic budgeting and financial planning initiatives.  

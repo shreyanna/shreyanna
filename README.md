@@ -1,6 +1,6 @@
 ## Welcome  
 
-Data scientist and analytics professional leveraging advanced statistical methods and machine learning to drive impactful solutions. Expertise in data modeling, visualization, and AR/VR development, with a proven track record in process optimization and creative technology applications.  
+Statistics & Analytics student leveraging advanced statistical methods and machine learning to drive impactful solutions. Expertise in data modeling, visualization, and AR/VR development, with a proven track record in process optimization and creative technology applications.  
 
 ### Highlights  
 - **Technical Skills**: Proficient in R, Python, SQL, Tableau, Power BI, and distributed systems.  

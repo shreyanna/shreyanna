@@ -4,7 +4,7 @@ I'm Shreya Annapureddy, a **data science** and **data analyticst** enthusiast. C
 
 ### 🌟 Highlights
 - 📊 **Data Science Enthusiast**: Skilled in R, Python, and SQL for data analysis and visualization.
-- 👩‍💻 **AR Creator**: Designed dynamic AR lenses on Snap and Meta platforms, garnering **over 600 million impressions** globally.
+- 👩‍💻 **AR Creator**: Designed dynamic AR lenses on [Snap](https://lensstudio.snapchat.com/creator/hG9De5xaBTOFzRNVdtWfpw) and Meta platforms, garnering **over 600 million impressions** globally.
 - 🎓 **Achievements**: Founding partner and curriculum developer of [Data World](https://cads.cs.unc.edu/data-world/).
 
 ### 🚀 What I'm Up To

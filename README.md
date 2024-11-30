@@ -2,12 +2,6 @@
 
 Hi, I’m Shreya Annapureddy, a senior at UNC-Chapel Hill pursuing a B.S. in Statistics & Analytics with a minor in Data Science. I’m fascinated by the ability of technology to combine systematic processes with creative problem-solving, turning abstract concepts into impactful, real-world solutions.
 
-📊 **Currently**:  
-- Leading curriculum development for **Data World**, an educational initiative focused on programming and machine learning concepts.
-
-📈 **Next**:  
-- Actively seeking full-time opportunities in **data science** and **business analytics** to apply expertise in predictive modeling, data analysis, and visualization to solve complex challenges and drive informed decision-making.
-
 ## Projects  
 
 - **AR Development**: Developed AR lenses for Snap and Meta platforms, achieving over **600 million impressions**.  
